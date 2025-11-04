@@ -8,5 +8,7 @@
 </head>
 <body>
 test.jsp
+test2.jsp
 </body>
+
 </html>
